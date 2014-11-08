@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pg/!svn/ver/2147/code/smartgrid/microgrid-app/ec2_server/www/test-scripts
+END
+PortalQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pg/!svn/ver/2147/code/smartgrid/microgrid-app/ec2_server/www/test-scripts/PortalQueries.java
+END
+simpleget.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pg/!svn/ver/2147/code/smartgrid/microgrid-app/ec2_server/www/test-scripts/simpleget.php
+END
+create_landmarks.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pg/!svn/ver/2147/code/smartgrid/microgrid-app/ec2_server/www/test-scripts/create_landmarks.php
+END
+sparql.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pg/!svn/ver/2147/code/smartgrid/microgrid-app/ec2_server/www/test-scripts/sparql.php
+END
+get_forecast_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pg/!svn/ver/2147/code/smartgrid/microgrid-app/ec2_server/www/test-scripts/get_forecast_old.php
+END
+test_query.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pg/!svn/ver/2147/code/smartgrid/microgrid-app/ec2_server/www/test-scripts/test_query.php
+END
+plot_kwh.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pg/!svn/ver/2147/code/smartgrid/microgrid-app/ec2_server/www/test-scripts/plot_kwh.php
+END
