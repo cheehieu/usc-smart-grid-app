@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, USCSmartGridAppActivity!</string>
+    <string name="app_name">USC Smart Grid App</string>
+    
+    <string name="EC2domain_old">http://ec2&#8211;50&#8211;18&#8211;25&#8211;133.us&#8211;west&#8211;1.compute.amazonaws.com/</string>
+    <string name="EC2domain">http://ec2&#8211;50&#8211;18&#8211;134&#8211;233.us&#8211;west&#8211;1.compute.amazonaws.com/</string>
+    
+    <string name="building_prompt">Select a building.</string>
+    <string-array name="building_array">
+        <item>EEB</item>
+        <item>MHP</item>
+        <item>OHE</item>
+        <item>RTH</item>
+        <item>SAL</item>
+        <item>TCC</item>
+        <item>VHE</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/res/layout
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pg/!svn/ver/2315/code/smartgrid/microgrid-app/android/USCSmartGridApp/res/layout/main.xml
+END
+forecast.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/res/layout/forecast.xml
+END
+reduce.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/res/layout/reduce.xml
+END
+forecast2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/res/layout/forecast2.xml
+END
+location.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/res/layout/location.xml
+END
+comfort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pg/!svn/ver/2315/code/smartgrid/microgrid-app/android/USCSmartGridApp/res/layout/comfort.xml
+END

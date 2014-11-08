@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical">
+	
+    <ImageView
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:src="@android:drawable/divider_horizontal_dark"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="#900"
+	    android:scaleType="fitXY"
+	    android:paddingLeft="5dp"
+	    android:paddingRight="5dp"
+	    android:paddingBottom="4dp"
+	    android:paddingTop="2dp" />
+    
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textColor="#FC0"
+        android:paddingLeft="15dp"
+	    android:paddingRight="15dp"
+	    android:paddingBottom="3dp"
+	    android:paddingTop="3dp"
+        android:text="Reduce Your Energy Usage"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+   <ImageView
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:src="@android:drawable/divider_horizontal_dark"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="#900"
+	    android:scaleType="fitXY"
+	    android:paddingLeft="5dp"
+	    android:paddingRight="5dp"
+	    android:paddingBottom="2dp"
+	    android:paddingTop="4dp" />
+
+    <TableRow
+        android:id="@+id/tableRow_location"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Your Location: "
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/building_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold|italic"
+	    	android:textColor="#FC0"
+            android:text="..."
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow_comfort"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dip" >
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Your Comfort Level: "
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/comfort_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold|italic"
+	    	android:textColor="#FC0"
+            android:text="..."
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </TableRow>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:text="Sustainability Newsfeed: "
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ImageView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_gravity="center"
+        android:background="#FFF"
+        android:paddingBottom="2dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="2dp"
+        android:scaleType="fitXY"
+        android:src="@android:drawable/divider_horizontal_dark" />
+    
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="#282"
+                android:paddingTop="10dp"
+                android:paddingLeft="10dp"
+                android:text="Overloaded HVAC System -- 100 Points!" />
+
+            <TextView
+                android:id="@+id/text0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:paddingLeft="20dp"
+	    		android:paddingRight="20dp"
+	    		android:paddingBottom="10dp"
+	    		android:paddingTop="5dp"
+                android:text="Wow, a record-breaking 119&#176;F in Los Angeles! Your comfort level is set to 'neutral'. Would you like to reduce the load on your building's HVAC system by raising the regulated temperature to 84.324&#176;F, saving 15.347 kWh?"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <TableRow
+                android:id="@+id/tableRow0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" >
+                <Button
+                    android:id="@+id/yes_button0"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Yes" />
+                <Button
+                    android:id="@+id/maybe_button0"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Maybe" />
+                <Button
+                    android:id="@+id/no_button0"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="No" />
+            </TableRow>
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="#282"
+                android:paddingTop="10dp"
+                android:paddingLeft="10dp"
+                android:text="USC Energy Club Meeting -- 60 Points!" />
+            
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:paddingLeft="20dp"
+	    		android:paddingRight="20dp"
+	    		android:paddingBottom="10dp"
+	    		android:paddingTop="5dp"
+                android:text="The club is holding a meeting in EEB219 today at 11:30am to discuss Green IT and the Smart Grid. Would you like to RSVP?"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            <TableRow
+                android:id="@+id/tableRow1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" >
+                <Button
+                    android:id="@+id/yes_button1"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Yes" />
+                <Button
+                    android:id="@+id/maybe_button1"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Maybe" />
+                <Button
+                    android:id="@+id/no_button1"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="No" />
+            </TableRow>
+            
+            
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="#282"
+                android:paddingTop="10dp"
+                android:paddingLeft="10dp"
+                android:text="Solar Panels and Wind Turbines-- 45 Points!" />
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:paddingLeft="20dp"
+	    		android:paddingRight="20dp"
+	    		android:paddingBottom="10dp"
+	    		android:paddingTop="5dp"
+                android:text="Sunny with 20-30mph winds. Perfect weather for deploying additional solar panels and wind turbines. Would you like to shift 79.332% of the building's power consumption to these reusable energy sources?"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            <TableRow
+                android:id="@+id/tableRow2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" >
+                <Button
+                    android:id="@+id/yes_button2"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Yes" />
+                <Button
+                    android:id="@+id/maybe_button2"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Maybe" />
+                <Button
+                    android:id="@+id/no_button2"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="No" />
+            </TableRow>
+            
+            
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="#282"
+                android:paddingTop="10dp"
+                android:paddingLeft="10dp"
+                android:text="Elevator Boycott-- 20 Points!" />
+       		<TextView
+                android:id="@+id/text3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:paddingLeft="20dp"
+	    		android:paddingRight="20dp"
+	    		android:paddingBottom="10dp"
+	    		android:paddingTop="5dp"
+                android:text="The north elevators consume an average of 2.045kW every hour. Consider taking the stairs instead? You could use the extra exercise."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            <TableRow
+                android:id="@+id/tableRow3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" >
+                <Button
+                    android:id="@+id/yes_button3"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Yes" />
+                <Button
+                    android:id="@+id/maybe_button3"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Maybe" />
+                <Button
+                    android:id="@+id/no_button3"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="No" />
+            </TableRow>
+            
+            
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="#282"
+                android:paddingTop="10dp"
+                android:paddingLeft="10dp"
+                android:text="Become a Planeteer -- 9000 Points!" />
+       		<TextView
+                android:id="@+id/text4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:paddingLeft="20dp"
+	    		android:paddingRight="20dp"
+	    		android:paddingBottom="10dp"
+	    		android:paddingTop="5dp"
+                android:text="Join the Planeteers and defend the Earth from the greatest of disasters while making efforts to educate mankind to prevent smog, radiation, pollution, and more!"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            <TableRow
+                android:id="@+id/tableRow4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" >
+                <Button
+                    android:id="@+id/yes_button4"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Yes" />
+                <Button
+                    android:id="@+id/maybe_button4"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Maybe" />
+                <Button
+                    android:id="@+id/no_button4"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="No" />
+            </TableRow>
+            
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

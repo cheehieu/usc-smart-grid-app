@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:src="@android:drawable/divider_horizontal_dark"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="#900"
+	    android:scaleType="fitXY"
+	    android:paddingLeft="5dp"
+	    android:paddingRight="5dp"
+	    android:paddingBottom="4dp"
+	    android:paddingTop="2dp" />
+    
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textColor="#FC0"
+        android:paddingLeft="15dp"
+	    android:paddingRight="15dp"
+	    android:paddingBottom="3dp"
+	    android:paddingTop="3dp"
+        android:text="Energy Forecast 2"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+   <ImageView
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:src="@android:drawable/divider_horizontal_dark"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="#900"
+	    android:scaleType="fitXY"
+	    android:paddingLeft="5dp"
+	    android:paddingRight="5dp"
+	    android:paddingBottom="2dp"
+	    android:paddingTop="4dp" />
+   
+    <ImageView
+        android:id="@+id/graph_image"
+        android:layout_width="wrap_content"
+        android:layout_height="280dp"
+        android:layout_gravity="center"
+        android:paddingTop="5dip"
+        android:paddingBottom="30dip"
+        android:src="@drawable/web_app" />
+
+    <TextView
+        android1:id="@+id/results_text"
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:text="Results:"
+        android1:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <Button
+        android:id="@+id/get_forecast_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Get Forecast" />
+
+    <RadioGroup
+        android1:id="@+id/radioGroup1"
+        android1:layout_width="194dp"
+        android1:layout_height="wrap_content"
+        android1:layout_gravity="center_horizontal" >
+
+        <RadioButton
+            android1:id="@+id/radio0"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:checked="true"
+            android1:text="for My Location" />
+
+        <RadioButton
+            android1:id="@+id/radio1"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:text="for selected Building" />
+
+        <Spinner
+            android1:id="@+id/building_spinner"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:layout_gravity="center_horizontal"
+            android:entries="@array/building_array"
+		    android:prompt="@string/building_prompt"
+            android1:layout_weight="1" />
+
+    </RadioGroup>
+
+    <CheckBox
+        android1:id="@+id/checkBox1"
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:layout_gravity="center"
+        android1:text="View Pricing" />
+
+</LinearLayout>

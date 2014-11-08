@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid
+END
+R$id.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/R$id.class
+END
+ForecastActivity.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ForecastActivity.class
+END
+ReduceActivity.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity.class
+END
+BuildConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/BuildConfig.class
+END
+LocationActivity.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/LocationActivity.class
+END
+USCSmartGridAppActivity.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/USCSmartGridAppActivity.class
+END
+ComfortActivity.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ComfortActivity.class
+END
+ReduceActivity$10.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$10.class
+END
+ReduceActivity$11.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$11.class
+END
+ReduceActivity$12.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$12.class
+END
+ReduceActivity$13.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$13.class
+END
+R$string.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/R$string.class
+END
+ReduceActivity$14.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$14.class
+END
+ReduceActivity$15.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$15.class
+END
+LocationActivity$mylocationlistener.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/LocationActivity$mylocationlistener.class
+END
+R$array.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/R$array.class
+END
+Forecast2Activity.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/Forecast2Activity.class
+END
+R$drawable.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/R$drawable.class
+END
+ForecastActivity$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ForecastActivity$1.class
+END
+ReduceActivity$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$1.class
+END
+ReduceActivity$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$2.class
+END
+LocationActivity$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/LocationActivity$1.class
+END
+USCSmartGridAppActivity$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/USCSmartGridAppActivity$1.class
+END
+ReduceActivity$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$3.class
+END
+ComfortActivity$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ComfortActivity$1.class
+END
+LocationActivity$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/LocationActivity$2.class
+END
+USCSmartGridAppActivity$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/USCSmartGridAppActivity$2.class
+END
+ReduceActivity$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$4.class
+END
+ComfortActivity$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ComfortActivity$2.class
+END
+USCSmartGridAppActivity$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/USCSmartGridAppActivity$3.class
+END
+ReduceActivity$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$5.class
+END
+USCSmartGridAppActivity$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/USCSmartGridAppActivity$4.class
+END
+ReduceActivity$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$6.class
+END
+USCSmartGridAppActivity$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/USCSmartGridAppActivity$5.class
+END
+ReduceActivity$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$7.class
+END
+ReduceActivity$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$8.class
+END
+ReduceActivity$9.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/ReduceActivity$9.class
+END
+Forecast2Activity$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/Forecast2Activity$1.class
+END
+R$attr.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/R$attr.class
+END
+R.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/R.class
+END
+R$layout.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pg/!svn/ver/2148/code/smartgrid/microgrid-app/android/USCSmartGridApp/bin/classes/com/smartgrid/R$layout.class
+END
